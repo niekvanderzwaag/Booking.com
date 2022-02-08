@@ -1,5 +1,9 @@
 # Booking.com - Analysis of Data Jobs
 
+<p align="center">
+<img src="Images/booking_logo.jpg" style>
+</p>
+
 ## Table of contents
 - [Objective](#objective)
 - [Process](#process)
