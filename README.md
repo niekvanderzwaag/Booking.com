@@ -9,10 +9,6 @@
 - [Process](#process)
 - [Technologies](#technologies)
 - [Project Description](#project-description)
-- [Project Results](#project-results)
-- [Conclusion](#conclusion)
-- [Next Steps](#next-steps)
-
 
 ## Objective
 [(Back to top)](#table-of-contents)
@@ -31,34 +27,24 @@ What skills and responsibilities are most relevant for Data-related positions at
 + Data Cleaning
 + Exploratory Data Analysis
 + Data Visualization
++ Text Processing
++ Machine Learning
 
 ## Technologies:
 [(Back to top)](#table-of-contents)
 + Python
 + Selenium 
 + ChromeDriverManager
-+ NumPy 
-+ Time
-+ Random 
++ NumPy  
 + Pandas 
 + Seaborn
 + Matplotlib
++ Scikit-learn
 
 ## Project Description:
 [(Back to top)](#table-of-contents)
 
 + Web scraped the Booking.com career website to collect data on the most recent data-related job postings. 
 + Cleaned the data by using pandas. 
-+ Conducted an exploratory data analysis (EDA) to investigate the current data-related job market. 
-
-## Project Results:
-[(Back to top)](#table-of-contents)
-+ Work in progress
-
-## Conclusion
-[(Back to top)](#table-of-contents)
-+ Work in progress
-
-## Next Steps
-[(Back to top)](#table-of-contents)
-+ Work in progress
++ Conducted an exploratory data analysis (EDA) to investigate the current data-related job market.
++ Made predictioons from textual description. 
